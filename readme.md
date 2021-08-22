@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://godruoyi.com/">
-        <img src="https://godruoyi.com/vendor/images/logo.png" alt="Powered By godruoyi">
-    </a>
-</p>
 
 <p align="center">gblog is an easy blog, built with Laravel and Vue.js. <a href="https://godruoyi.com">https://godruoyi.com</a></p>
 
